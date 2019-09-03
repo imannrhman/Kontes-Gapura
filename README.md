@@ -8,7 +8,7 @@ Tampilan dari Aplikasi Flutter tentang Kontes Gapura.
 - [Flutter](https://flutter.dev)
 
 ## Created By
-- [Iman Nurohman]
+- Iman Nurohman
 
 ## {{jenis_kelas}} Eudeka!
 {{tentang_kelas}}.
